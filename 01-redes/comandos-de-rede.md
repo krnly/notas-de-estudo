@@ -23,7 +23,7 @@
 ## Lendo uma linha do `ss -tuln`
 
 ```
-tcp   LISTEN   0   4096   127.0.0.54:53   0.0.0.0:*
+tcp   LISTEN   0   4296   127.0.0.54:53   0.0.0.0:*
 ```
 
 - `tcp` → tipo de conexão
